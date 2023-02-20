@@ -1,4 +1,4 @@
-## chatgpt 学习资源
+## ChatGPT 学习资源
 
 ### chatgpt 官方网站
 * <https://chat.openai.com>
@@ -12,6 +12,18 @@
 ### 新必应（New Bing）国内申请与使用教程 
 * <https://juejin.cn/post/7199557716998078522>
 感谢 @林炳权 原创文章
+
+### ChatGPT保姆级教程，一分钟学会使用ChatGPT！
+* <https://juejin.cn/post/7198097078005841980>
+感谢 @程序员老鱼 原创文章
+
+### OpenAI 推出超神 ChatGPT 注册攻略来了
+* <https://juejin.cn/post/7173447848292253704>
+感谢 @优弧 原创文章
+
+### 我的个人微信也迅速接入了 ChatGPT
+* <https://juejin.cn/post/7176813187705077816>
+感谢 @阿兵云原生 原创文章
 
 ### chatgpt 定制训练
 * <https://platform.openai.com/docs/guides/fine-tuning>
