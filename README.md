@@ -6,6 +6,10 @@
 ### 国内访问 chatgpt
 * <https://chatgpt3.net/>
 
+### chatgpt 国内版（含源码）
+* <http://chatgpt.cnm48.cn:3002/>
+* 用 express 和 vue3 搭建的源码 <https://github.com/Chanzhaoyu/chatgpt-web>
+
 ### 开发使用 chatgpt api
 * <https://openai.com/api/>
 
