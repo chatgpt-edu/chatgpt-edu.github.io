@@ -32,5 +32,8 @@
 ### chatgpt 定制训练
 * <https://platform.openai.com/docs/guides/fine-tuning>
 
+### ChatGPT中文文档 (含API 参考文档）
+* <https://romdp9xhv7.feishu.cn/docx/Mjq7dXOqZo1Y9AxRlgqcRRoLnGh>
+
 ### chatgpt 学习交流群
 * 请加微信 limingth ，进微信学习交流群
