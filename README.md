@@ -5,6 +5,7 @@
 
 ### 国内访问 chatgpt
 * <https://chatgpt3.net/>
+* <https://chatgpt-edu.cn/>  感谢 @梁金华 同学！
 
 ### chatgpt 国内版（含源码）
 * <http://chatgpt.cnm48.cn:3002/>
@@ -34,6 +35,7 @@
 
 ### ChatGPT中文文档 (含API 参考文档）
 * <https://romdp9xhv7.feishu.cn/docx/Mjq7dXOqZo1Y9AxRlgqcRRoLnGh>
+感谢 @程海金 整理翻译！
 
 ### chatgpt 学习交流群
 * 请加微信 limingth ，进微信学习交流群
