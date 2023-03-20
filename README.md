@@ -1,4 +1,4 @@
-## ChatGPT 学习资源
+## ChatGPT 学习资料
 
 ### chatgpt 官方网站
 * <https://chat.openai.com>
