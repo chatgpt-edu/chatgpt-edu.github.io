@@ -21,6 +21,9 @@
 ### 我的个人微信也迅速接入了 ChatGPT
 * <https://juejin.cn/post/7176813187705077816> 感谢 @阿兵云原生 原创文章
 
+### 易参法律 AI 助手：
+* <http://lawai.craftsmandecc.com/>
+
 ## ChatGPT 开发相关
 
 ### 开发使用 chatgpt api
@@ -29,15 +32,24 @@
 ### ChatGPT中文文档 (含API 参考文档）
 * <https://romdp9xhv7.feishu.cn/docx/Mjq7dXOqZo1Y9AxRlgqcRRoLnGh> 感谢 @程海金 整理翻译！
 
-### chatgpt 网站国内版（含源码）
-* <http://chatgpt.cnm48.cn:3002/>
-* 用 express 和 vue3 搭建的源码 <https://github.com/Chanzhaoyu/chatgpt-web>
-
 ### chatgpt 定制训练
 * <https://platform.openai.com/docs/guides/fine-tuning>
 
 ### GPT-3保姆级教学(三)：使用OpenAI Fine-tuning API微调GPT-3模型
 * <https://www.bilibili.com/video/BV1DU4y1c77Y> 感谢 @徐达 分享 
+
+
+## 代码参考
+### Chanzhaoyu chatgpt 网站国内版（含源码）
+* demo: <http://chatgpt.cnm48.cn:3002/>
+* 用 express 和 vue3 搭建的源码 
+  * <https://github.com/Chanzhaoyu/chatgpt-web>
+  * <https://github.com/Chanzhaoyu/chatgpt-web-plus>
+
+### xu-zhanwei chatgpt 网站国内版（含源码）
+* demo: <https://www.zaiwen.top/chat-research#/home>
+* 用 python fastapi 和 vue3 搭建的源码 
+  * <https://gitee.com/xu-zhanwei/chatanywhere/>
 
 ### chatgpt 学习交流群
 * 请加微信 limingth ，进微信 ChatGPT 学习交流群和技术开发交流群
