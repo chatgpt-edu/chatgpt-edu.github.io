@@ -24,6 +24,9 @@
 ### 易参法律 AI 助手：
 * <http://lawai.craftsmandecc.com/>
 
+### 最新 AI 论文解读：
+* <http://aipaper.inscode.cc/>
+
 ## ChatGPT 开发相关
 
 ### 开发使用 chatgpt api
