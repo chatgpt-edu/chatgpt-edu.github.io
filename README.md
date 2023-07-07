@@ -7,6 +7,9 @@
 * <https://chatgpt3.net/>
 * <http://chat.eduwind.com>  感谢 @梁金华 开发分享！
 
+### Chatgpt 站点收录
+* <https://chatgpt-site.zhaoyeqing.cn/>
+  
 ## ChatGPT 应用相关
 
 ### 新必应（New Bing）国内申请与使用教程 
